@@ -195,11 +195,11 @@ margin-left: -33px;}
 
 
 @media only screen and (max-width:500px){
- .phone{margin-left: 0px;
+.phone{margin-left: 0px;
 flex-direction: column;
 padding: 100px 20px;
 text-align: center;
-    margin-top:-500px;}
+margin-top: -500px;}
 
 body{overflow: hidden;}
 
