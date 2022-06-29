@@ -9,12 +9,14 @@ overflow: hidden;
 position: relative;}
 
 .bg-curve1{background: linear-gradient(100deg,hsl(264, 100%, 61%),hsl(293, 100%, 63%));
+    position:relative;
 width: 600px;
 height: 650px;
 border-radius: 0 0 300px 300px;
 margin-left: -120px;}
 
 .bg-curve2{background:linear-gradient(100deg,hsl(264, 100%, 61%),hsl(293, 100%, 63%));
+    position:relative;
     width: 600px;
     opacity: 0.1;
     height: 650px;
