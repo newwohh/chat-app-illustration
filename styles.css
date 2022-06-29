@@ -198,7 +198,8 @@ margin-left: -33px;}
  .phone{margin-left: 0px;
 flex-direction: column;
 padding: 100px 20px;
-text-align: center;}
+text-align: center;
+    margin-top:-500px;}
 
 body{overflow: hidden;}
 
